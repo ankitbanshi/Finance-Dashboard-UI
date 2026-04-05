@@ -2,7 +2,7 @@
 
 Finflow Frontend is a responsive React + TypeScript finance dashboard built with a clean component architecture, role-aware behavior, and chart-driven analytics.
 
-# Demo Link: https://finance-dashboard-ui-three-phi.vercel.app/
+- Demo Link: https://finance-dashboard-ui-three-phi.vercel.app/
 
 ## What This App Includes
 
